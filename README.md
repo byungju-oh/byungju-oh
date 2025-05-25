@@ -8,9 +8,7 @@
 - 📊 데이터 분석 및 AI/ML 모델 개발 경험
 
 - ### 🏗️ Jenkins Pipeline 구축 경험
-- **Pipeline as Code**: Groovy 기반 선언적 파이프라인 설계
-- **Quality Gates**: SonarQube 연동으로 코드 품질 자동 검증
-- **Multi-Stage Build**: Docker 멀티스테이지 빌드로 이미지 크기 60% 최적화
+
 
 
 ### 🎯 ArgoCD GitOps 구현
