@@ -11,8 +11,7 @@
 - **Pipeline as Code**: Groovy 기반 선언적 파이프라인 설계
 - **Quality Gates**: SonarQube 연동으로 코드 품질 자동 검증
 - **Multi-Stage Build**: Docker 멀티스테이지 빌드로 이미지 크기 60% 최적화
-- **Parallel Execution**: 병렬 빌드로 전체 빌드 시간 50% 단축
-- **Auto Rollback**: 헬스체크 실패 시 자동 이전 버전 복구
+
 
 ### 🎯 ArgoCD GitOps 구현
 - **App of Apps Pattern**: 마이크로서비스 통합 관리 아키텍처 설계
