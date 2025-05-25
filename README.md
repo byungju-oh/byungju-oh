@@ -1,11 +1,10 @@
 # 👋 안녕하세요, 오병주입니다
 
 ## 🚀 About Me
-
-- 🏆 정보처리기사, 빅데이터분석기사, SQLD, CKA 보유
-- ☁️ AWS, Azure, GCP ,OCI 멀티클라우드 환경 구축 경험
+-- ☁️ AWS, Azure, GCP ,OCI 멀티클라우드 환경 구축 경험
 - 🐳 Docker/Kubernetes 기반 컨테이너 오케스트레이션 전문
 - 📊 데이터 분석 및 AI/ML 모델 개발 경험
+- 🏆 정보처리기사, 빅데이터분석기사, SQLD, CKA 보유
 
 - ### 🏗️ Jenkins Pipeline 구축 경험
 
