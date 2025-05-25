@@ -35,13 +35,13 @@
 
 ### Data & Analytics
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
+
 
 ### DevOps & CI/CD
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
 ![GitOps](https://img.shields.io/badge/GitOps-326CE5?style=flat&logo=git&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+
 
 ## 🏆 주요 프로젝트
 
@@ -63,12 +63,6 @@
 - **성과**: 새 프로젝트 CI/CD 구축 시간 80% 단축
 - **특징**: 다양한 언어/프레임워크 지원, 표준화된 빌드 프로세스
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
 
 ## 🏅 인증 및 자격증
 
@@ -83,16 +77,10 @@
 ## 🔗 Connect with me
 
 <div align="center">
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:qudwndh@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://your-blog.com">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
-  </a>
-</div>
+ 
 
 ---
 <div align="center">
