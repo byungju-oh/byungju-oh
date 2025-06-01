@@ -64,6 +64,23 @@
 
 ## 🏆 주요 프로젝트
 
+### 🤖 [RAG 기반 문서 질의응답 시스템](https://github.com/username/rag-document-qa)
+**AI/ML과 백엔드 기술을 결합한 지능형 문서 분석 플랫폼**
+- **Tech**: FastAPI, Streamlit, ChromaDB, Google Gemini, Sentence Transformers
+- **성과**: 로컬 임베딩으로 API 비용 90% 절감, 문서 기반 답변으로 정확도 향상
+- **특징**: 다중 파일 형식 지원(PDF/DOCX/TXT), 실시간 벡터 검색, 자연어 질의응답
+
+---
+
+**기존 Tech Stack에 추가할 AI/ML 섹션:**
+
+### AI & Machine Learning
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FF6B6B?style=flat&logo=huggingface&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=flat&logo=chromadb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
 ### 🛒 [E-commerce 마이크로서비스 플랫폼](https://github.com/username/ecommerce-microservices)
 **Jenkins + ArgoCD 기반 완전 자동화 CI/CD 구축**
 - **Tech**: Flask, Kubernetes, Jenkins, ArgoCD, Helm
