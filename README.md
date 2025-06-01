@@ -18,6 +18,15 @@
 - **RBAC & SSO**: 팀별 권한 분리 및 Google SSO 연동
 
 ## 🛠️ Tech Stack
+
+### AI & Machine Learning
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FF6B6B?style=flat&logo=huggingface&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=flat&logo=chromadb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
+
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud)
@@ -29,7 +38,6 @@
 ### Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
@@ -69,17 +77,6 @@
 - **Tech**: FastAPI, Streamlit, ChromaDB, Google Gemini, Sentence Transformers
 - **성과**: 로컬 임베딩으로 API 비용 90% 절감, 문서 기반 답변으로 정확도 향상
 - **특징**: 다중 파일 형식 지원(PDF/DOCX/TXT), 실시간 벡터 검색, 자연어 질의응답
-
----
-
-**기존 Tech Stack에 추가할 AI/ML 섹션:**
-
-### AI & Machine Learning
-![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FF6B6B?style=flat&logo=huggingface&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=flat&logo=chromadb&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ### 🛒 [E-commerce 마이크로서비스 플랫폼](https://github.com/username/ecommerce-microservices)
 **Jenkins + ArgoCD 기반 완전 자동화 CI/CD 구축**
