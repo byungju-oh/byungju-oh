@@ -54,17 +54,11 @@
 
 ## 🏆 주요 프로젝트
 
-### 🤖 [AI Personal Assistant](https://github.com/yourusername/ai-personal-assistant)
+### 🤖 [AI Personal Assistant](https://github.com/byungju-oh/agent)
 > **통합 AI 개인 비서 시스템** - Streamlit + Google Gemini
 - 할 일 관리, 일정 관리, 업무량 분석
 - 자동 계획 수립 및 실행 관리
 - 실시간 디버깅 및 모니터링 시스템
-
-**Tech**: 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-
-
 
 ### 🔍 [RAG Optimization Comparison System](https://github.com/byungju-oh/ragtestllm)
 **FastAPI + LangChain + Google AI Studio**를 활용한 RAG 최적화 방법 성능 비교 시스템
