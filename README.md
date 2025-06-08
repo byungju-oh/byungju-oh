@@ -67,7 +67,7 @@
 - **성과**: 로컬 임베딩으로 API 비용 90% 절감, 문서 기반 답변으로 정확도 향상
 - **특징**: 다중 파일 형식 지원(PDF/DOCX/TXT), 실시간 벡터 검색, 자연어 질의응답
 
-### 🛒 [E-commerce 마이크로서비스 플랫폼](https://github.com/username/ecommerce-microservices)
+### 🛒 [E-commerce 마이크로서비스 플랫폼][(https://github.com/byungju-oh/shop)
 **Jenkins + ArgoCD 기반 완전 자동화 CI/CD 구축**
 - **Tech**: Flask, Kubernetes, Jenkins, ArgoCD, Helm
 - **성과**: 배포 시간 70% 단축, 무중단 배포 99.5% 성공률
