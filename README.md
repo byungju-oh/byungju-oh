@@ -61,7 +61,7 @@
 - 문서 업로드 및 자동 처리 (PDF/TXT/DOCX)
 - 상세 성능 분석 리포트 생성
 
-### 🤖 [RAG 기반 문서 질의응답 시스템](https://github.com/username/rag-document-qa)
+### 🤖 [RAG 기반 문서 질의응답 시스템](https://github.com/byungju-oh/langchain)
 **AI/ML과 백엔드 기술을 결합한 지능형 문서 분석 플랫폼**
 - **Tech**: FastAPI, Streamlit, ChromaDB, Google Gemini, Sentence Transformers
 - **성과**: 로컬 임베딩으로 API 비용 90% 절감, 문서 기반 답변으로 정확도 향상
