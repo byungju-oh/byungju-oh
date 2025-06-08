@@ -73,19 +73,6 @@
 - **성과**: 배포 시간 70% 단축, 무중단 배포 99.5% 성공률
 - **특징**: GitOps 방식 멀티 환경 관리, 자동 롤백 시스템
 
-### 🤖 [GitOps Infrastructure Repository](https://github.com/username/ecommerce-gitops)
-**ArgoCD App of Apps 패턴으로 인프라 관리**
-- **Tech**: ArgoCD, Helm, Kustomize, External Secrets
-- **성과**: 인프라 변경 추적성 100%, 수동 개입 90% 감소
-- **특징**: 환경별 자동 배포, 시크릿 관리 자동화
-
-### 🔧 [CI/CD Pipeline Templates](https://github.com/username/cicd-templates)
-**재사용 가능한 Jenkins 파이프라인 라이브러리**
-- **Tech**: Jenkins Shared Library, Groovy, Docker
-- **성과**: 새 프로젝트 CI/CD 구축 시간 80% 단축
-- **특징**: 다양한 언어/프레임워크 지원, 표준화된 빌드 프로세스
-
-
 ## 🏅 인증 및 자격증
 
 ### 🎯 보유 자격증
