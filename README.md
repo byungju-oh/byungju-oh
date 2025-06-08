@@ -18,7 +18,6 @@
 ## 🛠️ Tech Stack
 
 ### AI & Machine Learning
-![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FF6B6B?style=flat&logo=huggingface&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=flat&logo=chromadb&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
