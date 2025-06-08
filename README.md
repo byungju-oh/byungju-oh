@@ -54,7 +54,7 @@
 
 ## 🏆 주요 프로젝트
 
-### 🔍 RAG Optimization Comparison System
+### 🔍 [RAG Optimization Comparison System](https://github.com/byungju-oh/ragtestllm)
 **FastAPI + LangChain + Google AI Studio**를 활용한 RAG 최적화 방법 성능 비교 시스템
 - 6가지 RAG 최적화 방법 실시간 성능 비교
 - 직관적인 React 웹 인터페이스
