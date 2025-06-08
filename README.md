@@ -9,6 +9,22 @@
 - ### 🏗️ Jenkins Pipeline 구축 경험
 
 
+# 🔍 RAG Optimization Comparison System
+
+**FastAPI + LangChain + Google AI Studio**를 활용한 RAG 최적화 방법 성능 비교 시스템
+
+## 🎯 주요 기능
+- 6가지 RAG 최적화 방법 실시간 성능 비교
+- 직관적인 React 웹 인터페이스
+- 문서 업로드 및 자동 처리 (PDF/TXT/DOCX)
+- 상세 성능 분석 리포트 생성
+
+## 🛠️ 기술 스택
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=flat&logo=google&logoColor=white)
 
 ### 🎯 ArgoCD GitOps 구현
 - **App of Apps Pattern**: 마이크로서비스 통합 관리 아키텍처 설계
