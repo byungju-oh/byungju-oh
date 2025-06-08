@@ -5,15 +5,8 @@
 - 🐳 Docker/Kubernetes 기반 컨테이너 오케스트레이션 전문
 - 📊 데이터 분석 및 AI/ML 모델 개발 경험
 - 🏆 정보처리기사, 빅데이터분석기사, SQLD, CKA 보유
-
-- ### 🏗️ Jenkins Pipeline 구축 경험
-- 
-### 🎯 ArgoCD GitOps 구현
-- **App of Apps Pattern**: 마이크로서비스 통합 관리 아키텍처 설계
-- **Multi-Environment**: dev/staging/prod 환경별 자동 배포 구현
-- **Progressive Delivery**: Canary 배포로 무중단 점진적 롤아웃
-- **Auto Sync**: Git 변경사항 3분 내 자동 감지 및 동기화
-- **RBAC & SSO**: 팀별 권한 분리 및 Google SSO 연동
+- 🏗️ Jenkins Pipeline 구축 경험
+- 🎯 ArgoCD GitOps 구현
 
 ## 🛠️ Tech Stack
 
