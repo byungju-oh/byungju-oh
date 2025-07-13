@@ -60,6 +60,12 @@
 * 이벤트 기반 Pod 자동화 및 상태 관리
 * GKE 환경에서 오퍼레이터 패턴 학습
 
+### 🛣️ [이 길 어때? - 싱크홀 위험 예측 서비스](https://github.com/byungju-oh/akagitops)
+**AI 기반 싱크홀 위험도 예측 및 안전 경로 안내** - React + FastAPI + Azure AI
+* 서울시 전역 싱크홀 위험도 5단계 실시간 지도 시각화
+* Azure 음성 인식/합성 기반 음성 네비게이션 및 접근성 향상
+* Custom Vision 싱크홀 이미지 탐지 및 RAG 챗봇 위험 정보 질의응답
+
 ### 🔍 [RAG Optimization Comparison System](https://github.com/byungju-oh/ragtestllm)
 **FastAPI + LangChain + Google AI Studio**를 활용한 RAG 최적화 방법 성능 비교 시스템
 - 6가지 RAG 최적화 방법 실시간 성능 비교
