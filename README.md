@@ -54,11 +54,11 @@
 
 ## 🏆 주요 프로젝트
 
-### 🤖 [AI Personal Assistant](https://github.com/byungju-oh/agent)
-> **통합 AI 개인 비서 시스템** - Streamlit + Google Gemini
-- 할 일 관리, 일정 관리, 업무량 분석
-- 자동 계획 수립 및 실행 관리
-- 실시간 디버깅 및 모니터링 시스템
+###🤖 [Kubernetes 오퍼레이터 학습](https://github.com/byungju-oh/operator)
+**Kubernetes 오퍼레이터 패턴 실습** - Python(kopf) + Go(kubebuilder)
+* CRD 기반 커스텀 리소스 관리
+* 이벤트 기반 Pod 자동화 및 상태 관리
+* GKE 환경에서 오퍼레이터 패턴 학습
 
 ### 🔍 [RAG Optimization Comparison System](https://github.com/byungju-oh/ragtestllm)
 **FastAPI + LangChain + Google AI Studio**를 활용한 RAG 최적화 방법 성능 비교 시스템
