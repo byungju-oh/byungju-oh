@@ -54,7 +54,7 @@
 
 ## 🏆 주요 프로젝트
 
-###🤖 [Kubernetes 오퍼레이터 학습](https://github.com/byungju-oh/operator)
+### 🤖 [Kubernetes 오퍼레이터 학습](https://github.com/byungju-oh/operator)
 **Kubernetes 오퍼레이터 패턴 실습** - Python(kopf) + Go(kubebuilder)
 * CRD 기반 커스텀 리소스 관리
 * 이벤트 기반 Pod 자동화 및 상태 관리
